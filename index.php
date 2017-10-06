@@ -14,6 +14,6 @@
 
 get_header(); ?>
 
-<p>INDEX</p>
+<p>INDEX !</p>
 
 <?php get_footer(); ?>
