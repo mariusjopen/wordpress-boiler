@@ -29,7 +29,7 @@
 		"dS": 0,
 		"ft": 2,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/min\/general.min.css",
 		"oF": 0,
 		"oS": 0,
@@ -72,7 +72,7 @@
 		"dS": 0,
 		"ft": 2,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/css\/min\/mobile.min.css",
 		"oF": 0,
 		"oS": 0,
@@ -112,7 +112,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/min\/app.min.js",
 		"oF": 0,
 		"sC": 3,
@@ -132,7 +132,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/js\/min\/extra.min.js",
 		"oF": 0,
 		"sC": 3,
@@ -209,9 +209,9 @@
 	},
 "projectAttributes": {
 	"creationDate": 528850828,
-	"displayValue": "boiler",
+	"displayValue": "srv",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "brackets_orange"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
