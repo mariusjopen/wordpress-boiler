@@ -185,9 +185,9 @@
 	},
 "projectAttributes": {
 	"creationDate": 528850828,
-	"displayValue": "boiler",
+	"displayValue": "srv",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "brackets_orange"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
