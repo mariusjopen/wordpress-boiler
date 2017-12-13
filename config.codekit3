@@ -35,6 +35,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/min\/combine.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/min\/combine.min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/mobile.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -150,6 +160,13 @@
 		"oAP": "\/page.php",
 		"oF": 0
 		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/README.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -185,7 +202,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 528850828,
-	"displayValue": "srv",
+	"displayValue": "boiler",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_orange"
 	},
